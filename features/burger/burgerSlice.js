@@ -15,7 +15,7 @@ const burgerSlice =  createSlice({
 
 })
 
-//console.log(burgerSlice)
+console.log(burgerSlice)
 
 module.exports = burgerSlice.reducer;
 module.exports.burgerActions = burgerSlice.actions
